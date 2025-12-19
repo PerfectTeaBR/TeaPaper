@@ -1,0 +1,4 @@
+name: TeaPaper
+version: '1.0-SNAPSHOT'
+main: net.perfect.tea.teaPaper.TeaPaper
+api-version: '1.21'
