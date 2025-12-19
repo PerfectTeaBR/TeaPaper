@@ -53,3 +53,5 @@ processResources {
         expand props
     }
 }
+
+// java plugin!!
