@@ -26,5 +26,7 @@ Ok, this repository will have a lot of Minecraft Java plugins, including [JustAL
 ### 🤔 Why random things?
 I wanted to include a bunch of cool stuff besides TeaPaper because sometimes I think, "Wow, I don't just want one topic in this repository, I want more than just that!" And besides liking Minecraft, I LOVE the plugins and community servers for Minecraft. I look at them and think, "How did those servers even start?" So I just included all those cool things :D
 
+And this repository has the **PaperMC API.** ;w;
+
 > [!CAUTION]
 > The TeaPaper are in a **BETA VERSION**, we can have some bugs :3
