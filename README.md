@@ -1,7 +1,13 @@
-<h1 align="center">✨TeaPaper✨</h1>
+<div>
+  <img src="a_cute_dog.jpeg" alt="A Super Cute Banner :3" width="100%">
 
-![Static Badge](https://img.shields.io/badge/mc_version-1.21.11-blue)
-[![Static Badge](https://img.shields.io/badge/DreamsBakeryMC-orange)](https://github.com/DreamsBakeryMC)
+  <h1 align="center">✨TeaPaper✨</h1>
+
+  ![Static Badge](https://img.shields.io/badge/mc_version-1.21.11-blue)
+  [![Static Badge](https://img.shields.io/badge/DreamsBakeryMC-orange)](https://github.com/DreamsBakeryMC)
+</div>
+
+<br>
 
 
 ✨ "Oooh, a Paper!" - DreamsBakery Paper's fork for Minecraft Java Servers ;w;
