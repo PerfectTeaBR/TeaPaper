@@ -1,0 +1,22 @@
+name: Buid TeaPaper Plugins
+
+on: [ push ]
+
+jobs:
+
+    buid:
+     runs-on: ubuntu-latest
+
+      steps:
+           - uses: actions/checkout@v2
+           with:
+           submodules: recursive
+
+           - name: Setup Java JDK
+           uses: actions/setup-java@v1.4.3
+             with:
+                java-version: 21
+
+          - name: Publish to Docker
+             env:
+              run: ./gradlew :teapaper:jib --daemon
