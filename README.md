@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img src="a_cute_dog.jpeg" alt="A Super Cute Banner :3" width="100%">
 
   <h1 align="center">✨TeaPaper✨</h1>
