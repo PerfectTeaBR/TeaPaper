@@ -19,6 +19,8 @@ DreamsBakery has a bunch of plugins for minecraft servers, but he don't have a "
 ## 🌐 Features
 - TeaPaper's optimization;
 - More random plugins;
+- Chat Commands;
+  - I want to put the chat commands in this repository because, as I said, I was going to put a bunch of random things here because... I wanted to :3
 
 ## 😃 More bunch of random things
 Ok, this repository will have a lot of Minecraft Java plugins, including [JustALowLatency](https://github.com/PerfectTeaBR/JustALowLatency) :3
