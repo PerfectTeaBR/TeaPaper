@@ -6,6 +6,7 @@
   ![Static Badge](https://img.shields.io/badge/mc_version-1.21.11-blue)
   [![Static Badge](https://img.shields.io/badge/DreamsBakeryMC-orange)](https://github.com/DreamsBakeryMC)
   [![Static Badge](https://img.shields.io/badge/License-GPL_v3-blue)](LICENSE)
+  [![Static Badge](https://img.shields.io/badge/Follow-PerfectTea-blue)](https://github.com/PerfectTeaBR)
 
 </div>
 
