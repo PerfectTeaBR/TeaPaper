@@ -1,10 +1,13 @@
-<div>
+<div align="center">
   <img src="a_cute_dog.jpeg" alt="A Super Cute Banner :3" width="100%">
 
   <h1 align="center">✨TeaPaper✨</h1>
 
   ![Static Badge](https://img.shields.io/badge/mc_version-1.21.11-blue)
   [![Static Badge](https://img.shields.io/badge/DreamsBakeryMC-orange)](https://github.com/DreamsBakeryMC)
+  [![Static Badge](https://img.shields.io/badge/License-GPL_v3-blue)](LICENSE)
+  [![Static Badge](https://img.shields.io/badge/Follow-PerfectTea-blue)](https://github.com/PerfectTeaBR)
+
 </div>
 
 <br>
@@ -19,6 +22,8 @@ DreamsBakery has a bunch of plugins for minecraft servers, but he don't have a "
 ## 🌐 Features
 - TeaPaper's optimization;
 - More random plugins;
+- Chat Commands;
+  - I want to put the chat commands in this repository because, as I said, I was going to put a bunch of random things here because... I wanted to :3
 
 ## 😃 More bunch of random things
 Ok, this repository will have a lot of Minecraft Java plugins, including [JustALowLatency](https://github.com/PerfectTeaBR/JustALowLatency) :3
