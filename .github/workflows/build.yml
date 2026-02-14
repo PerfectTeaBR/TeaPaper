@@ -43,3 +43,9 @@ jobs:
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive # Baixa as dependências do Paper/Spigot
+          fetch-depth: 0        # Baixa todo o histórico (necessário para os patches)
